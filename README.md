@@ -1,4 +1,4 @@
-# -Unsupervised-ML-Retail-Sales-Predication-ML-project-Sunil-Kumar-K
+# Regression-Retail-Sales-Predication-ML-project-Sunil-Kumar-K
 During our analysis, we noticed that the Sales column contained a significant number of rows with zero sales, totaling 172,817 rows. Initially, we created a new dataframe by removing these rows with zero sales and proceeded to train our model. We applied various algorithms and achieved an accuracy score of approximately 74%.
 
 However, our curiosity led us to explore the total dataset, including the rows with zero sales. Subsequently, we trained another model using different algorithms and obtained an impressive accuracy of around 98%. This result was significantly better than the previous model.
